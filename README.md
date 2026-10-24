@@ -146,7 +146,7 @@ Unity Digital Twin Visualization
 
 The architecture diagram is available in:
 
-`docs/Architecture_Diagram.pdf`
+`docs/Architecture diagram`
 
 ## 10. Experimental Results
 
